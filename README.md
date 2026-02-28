@@ -25,7 +25,7 @@ Currently pursuing **CCNA** and **Linux Essentials**, with **RHCSA** next on the
 | OS | RHEL, Linux |
 | Network Monitoring | Wireshark, Nmap |
 
-→ Full documentation: [homelab](https://github.com/YOUR_USERNAME/homelab)
+→ Full documentation: [homelab](https://github.com/coreyarmstrong-sec/homelab)
 
 ---
 
@@ -33,8 +33,8 @@ Currently pursuing **CCNA** and **Linux Essentials**, with **RHCSA** next on the
 
 | Repo | Description |
 |---|---|
-| [homelab](https://github.com/YOUR_USERNAME/homelab) | Full enterprise-style security lab — pfSense, VLANs, Splunk, Proxmox, Docker |
-| [ccna-labs](https://github.com/YOUR_USERNAME/ccna-labs) | Cisco Packet Tracer labs mapped to CCNA 200-301 objectives |
+| [homelab](https://github.com/coreyarmstrong-sec/homelab) | Full enterprise-style security lab — pfSense, VLANs, Splunk, Proxmox, Docker |
+| [ccna-labs](https://github.com/coreyarmstrong-sec/ccna-labs) | Cisco Packet Tracer labs mapped to CCNA 200-301 objectives |
 
 ---
 
