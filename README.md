@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hey, I'm Corey Armstrong 👋
 
-<!--
-**coreyarmstrong-sec/coreyarmstrong-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Professional | Orlando, FL**
 
-Here are some ideas to get you started:
+CompTIA Security+ | ISC² CC | CCNA In Progress | UCF Alumni
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 What I'm About
+
+I'm an entry-level cybersecurity professional focused on **network security, SOC operations, and Linux system administration**. I don't just study concepts — I build and break things in my homelab until I actually understand them.
+
+Currently pursuing **CCNA** and **Linux Essentials**, with **RHCSA** next on the roadmap.
+
+---
+
+## 🛠️ My Homelab Stack
+
+| Layer | Technology |
+|---|---|
+| Firewall / Router | pfSense with multi-VLAN segmentation |
+| Virtualization | Proxmox (Type-1 Hypervisor) |
+| Containers | Docker (Nextcloud, Jellyfin + more) |
+| SIEM | Splunk (Blue Team Level 1 coursework) |
+| OS | RHEL, Linux |
+| Network Monitoring | Wireshark, Nmap |
+
+→ Full documentation: [homelab](https://github.com/YOUR_USERNAME/homelab)
+
+---
+
+## 📂 Featured Repositories
+
+| Repo | Description |
+|---|---|
+| [homelab](https://github.com/YOUR_USERNAME/homelab) | Full enterprise-style security lab — pfSense, VLANs, Splunk, Proxmox, Docker |
+| [ccna-labs](https://github.com/YOUR_USERNAME/ccna-labs) | Cisco Packet Tracer labs mapped to CCNA 200-301 objectives |
+
+---
+
+## 📜 Certifications
+
+- ✅ **CompTIA Security+** — February 2026
+- ✅ **ISC² Certified in Cybersecurity (CC)** — 2025
+- ✅ **Blue Team Level 1** — Security Blue Team (Coursework)
+- 🔄 **Cisco CCNA 200-301** — In Progress (Expected April 2026)
+- 🔄 **Linux Essentials** — In Progress (Expected April 2026)
+- 📋 **RHCSA** — Planned 2026
+
+---
+
+## 🧠 Technical Skills
+
+```
+Network Security    →  pfSense · VLANs · Firewall Rules · ACLs · NAT · OSPF
+Security Operations →  Splunk SIEM · Log Analysis · Threat Detection · IDS/IPS
+Systems             →  Linux (RHEL) · Proxmox · Docker · SSH · Windows
+Networking          →  TCP/IP · OSI Model · Subnetting · Routing & Switching
+Tools               →  Wireshark · Nmap · Cisco Packet Tracer · Cisco IOS CLI
+```
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Corey%20Armstrong-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/corey-armstrong-625155222)
+[![Email](https://img.shields.io/badge/Email-coreyarmstrong2001%40gmail.com-D14836?style=flat&logo=gmail)](mailto:coreyarmstrong2001@gmail.com)
+
+---
+
+*Actively seeking entry-level SOC Analyst, Junior Network Security, or IT Security Analyst roles in the Orlando area or remote.*
