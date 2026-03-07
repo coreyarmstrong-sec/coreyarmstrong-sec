@@ -31,6 +31,7 @@ Currently pursuing **CCNA** and **Linux Essentials**, with **RHCSA** next on the
 | [homelab](https://github.com/coreyarmstrong-sec/homelab) | Full enterprise-style security lab — pfSense, VLANs, Splunk, Proxmox, Docker |
 | [ccna-labs](https://github.com/coreyarmstrong-sec/ccna-labs) | Cisco Packet Tracer labs mapped to CCNA 200-301 objectives |
 | [Cybersec-Projects](https://github.com/coreyarmstrong-sec/Cybersec-Projects) | Hands-on security tools — malware analysis, phishing detection, network forensics |
+| [getpoise](https://github.com/coreyarmstrong-sec/getpoise) | Startup idea project |
 
 ---
 
