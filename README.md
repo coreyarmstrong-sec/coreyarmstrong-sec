@@ -32,7 +32,7 @@ Currently pursuing **CCNA** and **Linux Essentials**, with **RHCSA** next on the
 | [ccna-labs](https://github.com/coreyarmstrong-sec/ccna-labs) | Cisco Packet Tracer labs mapped to CCNA 200-301 objectives |
 | [Cybersec-Projects](https://github.com/coreyarmstrong-sec/Cybersec-Projects) | Hands-on security tools — malware analysis, phishing detection, network forensics |
 | [getpoise](https://github.com/coreyarmstrong-sec/getpoise) | Startup idea project |
-| [getpoise](https://github.com/coreyarmstrong-sec/getpoise) | Startup idea project |
+| [W.L.M](https://github.com/coreyarmstrong-sec/weekend-lab-marathon) | Weekend Lab Marathon |
 
 ---
 
