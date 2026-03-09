@@ -33,7 +33,7 @@ Currently pursuing **CCNA** and **Linux Essentials**, with **RHCSA** next on the
 | [Cybersec-Projects](https://github.com/coreyarmstrong-sec/Cybersec-Projects) | Hands-on security tools — malware analysis, phishing detection, network forensics |
 | [getpoise](https://github.com/coreyarmstrong-sec/getpoise) | Startup idea project |
 | [weekend-lab-marathon](https://github.com/coreyarmstrong-sec/weekend-lab-marathon) | 4 enterprise labs in 48hrs — Splunk SIEM, Active Directory, AWS Cloud Security, Vulnerability Scanning |
-| [weekend-lab-marathon](https://github.com/coreyarmstrong-sec/weekend-lab-marathon) | 4 enterprise labs in 48hrs — Splunk SIEM, Active Directory, AWS Cloud Security, Vulnerability Scanning |
+| [Threat-Intel-Stack](https://github.com/coreyarmstrong-sec/threat-intel-stack) | 4 enterprise labs in 48hrs — Splunk SIEM, Active Directory, AWS Cloud Security, Vulnerability Scanning |
 
 ---
 
